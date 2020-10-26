@@ -1,0 +1,15 @@
+{
+    "peronIpsum": {
+      "prefix": ["peron", "peronipsum"],
+      "body": ["Todos debemos ser artífices del destino común, pero ninguno instrumento de la ambición",
+                " de nadie. El Justicialismo necesita apóstoles y para ser apóstol hay que estar dispuesto",
+                "a ser héroe, y solamente los fanáticos de amor por una causa son capaces de morir por un ideal ",
+                "Para conducir a un pueblo la primera condición es que uno haya salido del pueblo, que sienta ",
+                "y piense como el pueblo. Quien se dedica a la conducción debe ser profundamente humanista: ",
+                "el conductor siempre trabaja para los demás, jámas para él Gobernar es fácil, lo difícil es ",
+                "conducir. La única verdad es la realidad No hay peor cosa que un bruto con inquietudes ",
+                "El Justicialismo ha dejado de ser la causa de un hombre para ser la causa del pueblo, y por ella ",
+                "sí valdría la pena darlo todo, incluso la vida" ],
+      "description": "A lorem-ipsum peronist."
+    }
+}
